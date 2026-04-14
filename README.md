@@ -1,0 +1,1 @@
+collect anything helpful with AI learning
