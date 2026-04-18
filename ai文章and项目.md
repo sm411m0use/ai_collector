@@ -1,3 +1,5 @@
+## 文章
+
 [[2604.05719\] Hackers or Hallucinators? A Comprehensive Analysis of LLM-Based Automated Penetration Testing](https://arxiv.org/abs/2604.05719)
 
 ```
@@ -11,4 +13,18 @@
    5. 选对基座模型并适配 — 不存在万能框架，需要针对特定 LLM 优化
    6. 商业 AI 助手是强力基线 — 不要低估通用编程智能体的渗透潜力
 ```
+
+[解耦 Claude Code：简洁、分治、隔离](https://mp.weixin.qq.com/s/54W23SpqzLJlfYXJdRScoA)
+
+
+
+## 项目
+
+[CyberStrikeAI——AI 原生安全测试平台.](https://github.com/Ed1s0nZ/CyberStrikeAI)
+
+```
+可关注skills、tools实现
+```
+
+
 
